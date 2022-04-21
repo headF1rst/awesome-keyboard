@@ -1,5 +1,3 @@
-# "THE SUSHI-WARE LICENSE"
-
 [@headF1rst](https://github.com/headF1rst) wrote this file.
 
 As long as you retain this notice you can do whatever you want
